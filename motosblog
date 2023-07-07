@@ -1,0 +1,1325 @@
+
+<!DOCTYPE html><!-- HTML 5 -->
+<html dir="ltr" lang="pt-BR"
+	prefix="og: https://ogp.me/ns#" >
+
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="https://www.motosblog.com.br/mb/xmlrpc.php" />
+
+
+
+
+
+    <meta property="fb:app_id" content="264569500225879" />
+    <meta property="fb:admins" content="motosblog" />
+    <meta property="og:url" content="https://www.motosblog.com.br/" />
+    <meta property="og:title" content="Motos Blog" />
+    <meta property="og:description" content="Motos Blog - Blog de opinião sobre motos, mercado, moto-turismo, análise de produtos e muito mais." />
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content="http://www.motosblog.com.br/mblogonovo.gif" />
+    <meta name="thumbnail" content="http://www.motosblog.com.br/mblogonovo.gif" />
+    <!--
+    <PageMap>
+    <DataObject type="thumbnail">
+      <Attribute name="src" value="http://www.motosblog.com.br/thumb.jpg"/>
+      <Attribute name="width" value="300"/>
+      <Attribute name="height" value="300"/>
+    </DataObject>
+    </PageMap>
+    -->
+    <meta property="og:site_name" content="Motos Blog - Opinião sobre motos"/>
+    <meta property="og:locale" content="pt_BR"/>
+    <link rel="Home" href="https://www.motosblog.com.br/" />
+    <link rel="Start" href="https://www.motosblog.com.br/" />
+    <link rel="Help" href="https://www.motosblog.com.br/about/" />
+    <link rel="Made" href="https://www.motosblog.com.br/contato/" />
+    <link rel="Copyright" href="https://www.motosblog.com.br/about/termos-de-uso/" />
+    <link rel="apple-touch-icon" href="https://www.motosblog.com.br/apple-touch-icon.png" />
+
+
+
+
+
+
+
+
+<!--[if lt IE 9]>
+<script src="https://www.motosblog.com.br/mb/wp-content/themes/anderson-lite/js/html5shiv.min.js" type="text/javascript"></script>
+<![endif]-->
+<title>Motos Blog</title>
+
+		<!-- All in One SEO 4.4.0.1 - aioseo.com -->
+		<meta name="robots" content="max-image-preview:large" />
+		<link rel="canonical" href="https://www.motosblog.com.br/" />
+		<meta name="generator" content="All in One SEO (AIOSEO) 4.4.0.1" />
+		<meta property="og:locale" content="pt_BR" />
+		<meta property="og:site_name" content="Motos Blog | Opinião sobre motos" />
+		<meta property="og:type" content="article" />
+		<meta property="og:title" content="Motos Blog" />
+		<meta property="og:url" content="https://www.motosblog.com.br/" />
+		<meta property="article:published_time" content="2015-09-19T00:02:14+00:00" />
+		<meta property="article:modified_time" content="2015-09-19T00:02:14+00:00" />
+		<meta name="twitter:card" content="summary" />
+		<meta name="twitter:title" content="Motos Blog" />
+		<script type="application/ld+json" class="aioseo-schema">
+			{"@context":"https:\/\/schema.org","@graph":[{"@type":"BreadcrumbList","@id":"https:\/\/www.motosblog.com.br\/#breadcrumblist","itemListElement":[{"@type":"ListItem","@id":"https:\/\/www.motosblog.com.br\/#listItem","position":1,"item":{"@type":"WebPage","@id":"https:\/\/www.motosblog.com.br\/","name":"In\u00edcio","description":"Opini\u00e3o sobre motos","url":"https:\/\/www.motosblog.com.br\/"}}]},{"@type":"Organization","@id":"https:\/\/www.motosblog.com.br\/#organization","name":"Motos Blog","url":"https:\/\/www.motosblog.com.br\/"},{"@type":"WebPage","@id":"https:\/\/www.motosblog.com.br\/#webpage","url":"https:\/\/www.motosblog.com.br\/","name":"Motos Blog","inLanguage":"pt-BR","isPartOf":{"@id":"https:\/\/www.motosblog.com.br\/#website"},"breadcrumb":{"@id":"https:\/\/www.motosblog.com.br\/#breadcrumblist"},"datePublished":"2015-09-19T00:02:14-03:00","dateModified":"2015-09-19T00:02:14-03:00"},{"@type":"WebSite","@id":"https:\/\/www.motosblog.com.br\/#website","url":"https:\/\/www.motosblog.com.br\/","name":"Motos Blog","description":"Opini\u00e3o sobre motos","inLanguage":"pt-BR","publisher":{"@id":"https:\/\/www.motosblog.com.br\/#organization"},"potentialAction":{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/www.motosblog.com.br\/?s={search_term_string}"},"query-input":"required name=search_term_string"}}]}
+		</script>
+		<!-- All in One SEO -->
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel="stylesheet" href="https://www.motosblog.com.br/mb/wp-content/cache/scripts/c0b19bd669d40592cfb2dbf9b735765e.css" type="text/css" media="all" /> <!-- Cache! -->
+<script type='text/javascript'>
+/* <![CDATA[ */
+/* anderson-lite-navigation */
+var anderson_navigation_params = {"mainnav_title":"Menu","topnav_title":"Menu"};
+/* anderson-lite-post-slider */
+var anderson_slider_params = {"animation":"fade"};
+
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.motosblog.com.br/mb/wp-content/cache/scripts/4a26c999ed6e88f049bf22b090bab691-deanedwards.js">/*Cache!*/</script>
+<link rel="https://api.w.org/" href="https://www.motosblog.com.br/wp-json/" /><link rel="alternate" type="application/json" href="https://www.motosblog.com.br/wp-json/wp/v2/pages/10954" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.motosblog.com.br/mb/xmlrpc.php?rsd" />
+<link rel='shortlink' href='https://www.motosblog.com.br/' />
+<link rel="alternate" type="application/json+oembed" href="https://www.motosblog.com.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.motosblog.com.br%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.motosblog.com.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.motosblog.com.br%2F&#038;format=xml" />
+	
+	
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-3393676289405739",
+    enable_page_level_ads: true
+  });
+</script>
+	
+</head>
+
+<body class="home page-template page-template-template-magazine page-template-template-magazine-php page page-id-10954">
+
+
+<div id="wrapper" class="hfeed">
+	
+	<div id="header-wrap">
+	
+		<header id="header" class="container clearfix" role="banner">
+
+			<div id="logo">
+<a href="https://www.motosblog.com.br/" title="Motos Blog" rel="home">
+				<img src="https://www.motosblog.com.br/logonovosite.png" />
+</a>
+								
+							
+			</div>
+			
+					</header>
+	
+	</div>
+	
+	<div id="navigation-wrap">
+	
+		<nav id="mainnav" class="container clearfix" role="navigation">
+			<ul id="mainnav-menu" class="menu"><li id="menu-item-10742" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-10742"><a href="http://www.motosblog.com.br/" aria-current="page">Principal</a></li>
+<li id="menu-item-10743" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-10743"><a href="https://www.motosblog.com.br/about/">O Motos Blog</a>
+<ul class="sub-menu">
+	<li id="menu-item-10744" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10744"><a href="https://www.motosblog.com.br/about/quem-somo/">Quem somos</a></li>
+	<li id="menu-item-10745" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10745"><a href="https://www.motosblog.com.br/?page_id=887">Anuncie no Motos Blog</a></li>
+	<li id="menu-item-10746" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10746"><a href="https://www.motosblog.com.br/about/termos-de-uso/">Termos de Uso</a></li>
+	<li id="menu-item-10747" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10747"><a href="https://www.motosblog.com.br/about/privacidade/">Privacidade</a></li>
+	<li id="menu-item-10748" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10748"><a href="https://www.motosblog.com.br/about/qualidade-e-transparencia/">Qualidade e transparência</a></li>
+</ul>
+</li>
+<li id="menu-item-10962" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10962"><a href="https://www.motosblog.com.br/blog/">Blog</a></li>
+<li id="menu-item-10749" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-10749"><a href="https://www.motosblog.com.br/motos/">Motos</a>
+<ul class="sub-menu">
+	<li id="menu-item-10752" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10752"><a href="https://www.motosblog.com.br/motos/ducati/">Motos Ducati</a></li>
+	<li id="menu-item-10751" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10751"><a href="https://www.motosblog.com.br/motos/bmw/">Motos BMW</a></li>
+	<li id="menu-item-10756" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10756"><a href="https://www.motosblog.com.br/motos/yamaha/">Motos Yamaha</a></li>
+	<li id="menu-item-10755" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10755"><a href="https://www.motosblog.com.br/motos/suzuki/">Motos Suzuki</a></li>
+	<li id="menu-item-10754" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10754"><a href="https://www.motosblog.com.br/motos/kawasaki/">Motos Kawasaki</a></li>
+	<li id="menu-item-10753" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10753"><a href="https://www.motosblog.com.br/motos/kasinski/">Motos Kasinski</a></li>
+</ul>
+</li>
+<li id="menu-item-10750" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10750"><a href="https://www.motosblog.com.br/contato/">Contato</a></li>
+</ul>		</nav>
+		
+	</div>
+	
+				
+	<div id="wrap" class="container clearfix template-magazine">
+
+		<section id="content" class="primary" role="main">
+		
+			<div id="post-slider-container">
+	
+		<div id="post-slider-wrap" class="clearfix">
+		
+			<div id="post-slider" class="zeeflexslider">
+				
+				<ul class="zeeslides">
+
+			
+				<li id="slide-11867" class="zeeslide" data-thumb="">
+
+					<img width="800" height="440" src="https://www.motosblog.com.br/mb/wp-content/uploads/2021/10/Como-dirigir-moto-800x440.png" class="slide-image wp-post-image" alt="" decoding="async" loading="lazy" />				
+					<div class="image-post-categories post-categories">
+						<ul class="post-categories">
+	<li><a href="https://www.motosblog.com.br/category/destaques/" rel="category tag">Destaques</a></li>
+	<li><a href="https://www.motosblog.com.br/category/seguranca/" rel="category tag">Segurança</a></li></ul>					</div>
+
+					<div class="slide-content clearfix">
+
+						<h2 class="post-title"><a href="https://www.motosblog.com.br/11867/comecando-a-pilotar-motos/" rel="bookmark">Começando a pilotar motos</a></h2>
+						
+						<div class="post-content">
+							<!--
+							<div class="postmeta">		
+			<span class="meta-date">
+			Publicado em <a href="https://www.motosblog.com.br/11867/comecando-a-pilotar-motos/" title="21:33" rel="bookmark"><time class="entry-date published updated" datetime="2021-10-21T21:33:00-03:00">21 de outubro de 2021</time></a>			</span>
+			
+		
+			<span class="meta-author">
+			por <span class="author vcard"><a class="fn" href="https://www.motosblog.com.br/author/admin/" title="Ver todos os artigos de Daniel Ribeiro" rel="author">Daniel Ribeiro</a></span>			</span>
+	</div>
+							-->
+							<div class="entry clearfix">
+								<p>Você comprou uma moto, mas tirou a CNH anos atrás e não lembra muito as dicas do seu instrutor. Então, [&#8230;]</p>
+							</div>
+							
+						</div>
+									
+					</div>
+
+				</li>
+
+			
+				<li id="slide-11137" class="zeeslide" data-thumb="">
+
+					<img width="880" height="440" src="https://www.motosblog.com.br/mb/wp-content/uploads/2015/10/IMG_7561-880x440.jpg" class="slide-image wp-post-image" alt="" decoding="async" loading="lazy" />				
+					<div class="image-post-categories post-categories">
+						<ul class="post-categories">
+	<li><a href="https://www.motosblog.com.br/category/curiosidades/" rel="category tag">Curiosidades</a></li>
+	<li><a href="https://www.motosblog.com.br/category/destaques/" rel="category tag">Destaques</a></li>
+	<li><a href="https://www.motosblog.com.br/category/eventos/" rel="category tag">Eventos</a></li></ul>					</div>
+
+					<div class="slide-content clearfix">
+
+						<h2 class="post-title"><a href="https://www.motosblog.com.br/11137/garotas-do-salao-duas-rodas-2015/" rel="bookmark">Garotas do Salão Duas Rodas 2015</a></h2>
+						
+						<div class="post-content">
+							<!--
+							<div class="postmeta">		
+			<span class="meta-date">
+			Publicado em <a href="https://www.motosblog.com.br/11137/garotas-do-salao-duas-rodas-2015/" title="1:50" rel="bookmark"><time class="entry-date published updated" datetime="2015-10-11T01:50:41-03:00">11 de outubro de 2015</time></a>			</span>
+			
+		
+			<span class="meta-author">
+			por <span class="author vcard"><a class="fn" href="https://www.motosblog.com.br/author/admin/" title="Ver todos os artigos de Daniel Ribeiro" rel="author">Daniel Ribeiro</a></span>			</span>
+	</div>
+							-->
+							<div class="entry clearfix">
+								<p>Estive no Salão Duas Rodas 2015 no Sábado (10 de Outubro de 2015), e pude conferir as novidades em motos [&#8230;]</p>
+							</div>
+							
+						</div>
+									
+					</div>
+
+				</li>
+
+			
+				<li id="slide-9900" class="zeeslide" data-thumb="">
+
+					<img width="880" height="440" src="https://www.motosblog.com.br/mb/wp-content/uploads/2014/05/IMG_20140502_125546-880x440.jpg" class="slide-image wp-post-image" alt="" decoding="async" loading="lazy" />				
+					<div class="image-post-categories post-categories">
+						<ul class="post-categories">
+	<li><a href="https://www.motosblog.com.br/category/destaques/" rel="category tag">Destaques</a></li>
+	<li><a href="https://www.motosblog.com.br/category/quentes/" rel="category tag">Quentes</a></li>
+	<li><a href="https://www.motosblog.com.br/category/testes/" rel="category tag">Testes</a></li></ul>					</div>
+
+					<div class="slide-content clearfix">
+
+						<h2 class="post-title"><a href="https://www.motosblog.com.br/9900/suzuki-dl650-v-strom-com-63-mil-km-teste-completo/" rel="bookmark">Suzuki DL650 V-Strom com 63 mil km &#8211; Teste completo</a></h2>
+						
+						<div class="post-content">
+							<!--
+							<div class="postmeta">		
+			<span class="meta-date">
+			Publicado em <a href="https://www.motosblog.com.br/9900/suzuki-dl650-v-strom-com-63-mil-km-teste-completo/" title="13:46" rel="bookmark"><time class="entry-date published updated" datetime="2014-05-03T13:46:37-03:00">3 de maio de 2014</time></a>			</span>
+			
+		
+			<span class="meta-author">
+			por <span class="author vcard"><a class="fn" href="https://www.motosblog.com.br/author/admin/" title="Ver todos os artigos de Daniel Ribeiro" rel="author">Daniel Ribeiro</a></span>			</span>
+	</div>
+							-->
+							<div class="entry clearfix">
+								<p>Hoje trago mais uma atualização sobre a “vida” da minha moto.</p>
+							</div>
+							
+						</div>
+									
+					</div>
+
+				</li>
+
+			
+				<li id="slide-9594" class="zeeslide" data-thumb="">
+
+					<img width="880" height="440" src="https://www.motosblog.com.br/mb/wp-content/uploads/2013/04/Suzuki-Gladius-880x440.jpg" class="slide-image wp-post-image" alt="" decoding="async" loading="lazy" />				
+					<div class="image-post-categories post-categories">
+						<ul class="post-categories">
+	<li><a href="https://www.motosblog.com.br/category/destaques/" rel="category tag">Destaques</a></li>
+	<li><a href="https://www.motosblog.com.br/category/quentes/" rel="category tag">Quentes</a></li>
+	<li><a href="https://www.motosblog.com.br/category/marcas/suzuki/" rel="category tag">Suzuki</a></li></ul>					</div>
+
+					<div class="slide-content clearfix">
+
+						<h2 class="post-title"><a href="https://www.motosblog.com.br/9594/suzuki-sfv650-gladius-finalmente-no-brasil/" rel="bookmark">Suzuki SFV650 Gladius finalmente no Brasil!</a></h2>
+						
+						<div class="post-content">
+							<!--
+							<div class="postmeta">		
+			<span class="meta-date">
+			Publicado em <a href="https://www.motosblog.com.br/9594/suzuki-sfv650-gladius-finalmente-no-brasil/" title="1:14" rel="bookmark"><time class="entry-date published updated" datetime="2013-04-12T01:14:18-03:00">12 de abril de 2013</time></a>			</span>
+			
+		
+			<span class="meta-author">
+			por <span class="author vcard"><a class="fn" href="https://www.motosblog.com.br/author/admin/" title="Ver todos os artigos de Daniel Ribeiro" rel="author">Daniel Ribeiro</a></span>			</span>
+	</div>
+							-->
+							<div class="entry clearfix">
+								<p>São João (Toledo) finalmente acordou e trouxe para o Brasil quatro cinco novas motos (e um patinete), entre elas, a [&#8230;]</p>
+							</div>
+							
+						</div>
+									
+					</div>
+
+				</li>
+
+			
+				<li id="slide-9505" class="zeeslide" data-thumb="">
+
+					<img width="880" height="440" src="https://www.motosblog.com.br/mb/wp-content/uploads/2013/01/Trofeu-880x440.jpg" class="slide-image wp-post-image" alt="" decoding="async" loading="lazy" />				
+					<div class="image-post-categories post-categories">
+						<ul class="post-categories">
+	<li><a href="https://www.motosblog.com.br/category/curiosidades/" rel="category tag">Curiosidades</a></li>
+	<li><a href="https://www.motosblog.com.br/category/destaques/" rel="category tag">Destaques</a></li>
+	<li><a href="https://www.motosblog.com.br/category/noticias/" rel="category tag">Notícias</a></li>
+	<li><a href="https://www.motosblog.com.br/category/quentes/" rel="category tag">Quentes</a></li></ul>					</div>
+
+					<div class="slide-content clearfix">
+
+						<h2 class="post-title"><a href="https://www.motosblog.com.br/9505/motos-blog-foi-vencedor-no-premio-top-blog-2012/" rel="bookmark">Motos Blog foi vencedor no prêmio Top Blog 2012!</a></h2>
+						
+						<div class="post-content">
+							<!--
+							<div class="postmeta">		
+			<span class="meta-date">
+			Publicado em <a href="https://www.motosblog.com.br/9505/motos-blog-foi-vencedor-no-premio-top-blog-2012/" title="6:03" rel="bookmark"><time class="entry-date published updated" datetime="2013-01-31T06:03:23-03:00">31 de janeiro de 2013</time></a>			</span>
+			
+		
+			<span class="meta-author">
+			por <span class="author vcard"><a class="fn" href="https://www.motosblog.com.br/author/admin/" title="Ver todos os artigos de Daniel Ribeiro" rel="author">Daniel Ribeiro</a></span>			</span>
+	</div>
+							-->
+							<div class="entry clearfix">
+								<p>É com muita alegria que venho contar o resultado final do Prêmio Top Blog 2012</p>
+							</div>
+							
+						</div>
+									
+					</div>
+
+				</li>
+
+			
+				</ul>
+				
+			</div>
+			
+			<div class="post-slider-controls"></div>
+
+		</div>
+		
+	</div>
+
+	
+		
+		
+			<div id="magazine-homepage-widgets" class="clearfix">
+
+				<div id="anderson_category_posts_boxed-2" class="widget anderson_category_posts_boxed clearfix">		<div id="widget-category-posts-boxed" class="widget-category-posts clearfix">
+		
+			<h3 class="widgettitle"><span><a href="https://www.motosblog.com.br/category/destaques/" title="Ver todos os artigos da categoria Destaques">Destaques</a></span></h3>			
+			<div class="widget-category-posts-content">
+			
+				
+					<article id="post-11880" class="big-post post-11880 post type-post status-publish format-standard has-post-thumbnail hentry category-curiosidades category-destaques category-dicas category-dinheiro category-publicidade category-seguranca tag-seguro">
+
+						
+			<div class="post-image-single">
+			
+				<a href="https://www.motosblog.com.br/11880/seguro-de-moto-vale-a-pena/" rel="bookmark">
+					<img width="520" height="300" src="https://www.motosblog.com.br/mb/wp-content/uploads/2021/10/Seguro-520x300.png" class="attachment-anderson-category-posts-widget-big size-anderson-category-posts-widget-big wp-post-image" alt="" decoding="async" loading="lazy" />				</a>
+				
+				<div class="image-post-categories post-categories">
+					<ul class="post-categories">
+	<li><a href="https://www.motosblog.com.br/category/curiosidades/" rel="category tag">Curiosidades</a></li>
+	<li><a href="https://www.motosblog.com.br/category/destaques/" rel="category tag">Destaques</a></li>
+	<li><a href="https://www.motosblog.com.br/category/dicas/" rel="category tag">Dicas</a></li>
+	<li><a href="https://www.motosblog.com.br/category/dinheiro/" rel="category tag">Dinheiro</a></li>
+	<li><a href="https://www.motosblog.com.br/category/publicidade/" rel="category tag">Publicidade</a></li>
+	<li><a href="https://www.motosblog.com.br/category/seguranca/" rel="category tag">Segurança</a></li></ul>				</div>
+				
+			</div>
+		
+		
+						<div class="post-content">
+							
+							<h3 class="post-title"><a href="https://www.motosblog.com.br/11880/seguro-de-moto-vale-a-pena/" rel="bookmark">Seguro de moto &#8211; vale a pena?</a></h3>
+
+							<div class="postmeta">		
+		<span class="meta-date">
+		<a href="https://www.motosblog.com.br/11880/seguro-de-moto-vale-a-pena/" title="6:40" rel="bookmark"><time class="entry-date published updated" datetime="2021-10-29T06:40:00-03:00">29 de outubro de 2021</time></a>		</span>
+		
+			
+		<span class="meta-author">
+		<a class="fn" href="https://www.motosblog.com.br/author/admin/" title="Ver todos os artigos de Daniel Ribeiro" rel="author">Daniel Ribeiro</a>		</span>
+	
+	</div>
+							
+							<div class="entry clearfix">
+								<p>Será que vale a pena fazer o seguro de uma moto pagando 10% do valor dela? Com certeza. Em alguns [&#8230;]</p>
+								<a href="https://www.motosblog.com.br/11880/seguro-de-moto-vale-a-pena/" class="more-link">&raquo; Leia mais</a>
+							</div>
+						
+						</div>
+
+					</article>
+
+				<div class="small-posts clearfix">
+
+				
+					<article id="post-11877" class="small-post clearfix post-11877 post type-post status-publish format-standard has-post-thumbnail hentry category-curiosidades category-destaques category-dicas tag-mulheres">
+
+											<a href="https://www.motosblog.com.br/11877/mulheres-no-guidao-respeito-a-vida-constante/" rel="bookmark"><img width="120" height="80" src="https://www.motosblog.com.br/mb/wp-content/uploads/2021/10/Mulheres-Moto-120x80.png" class="attachment-anderson-category-posts-widget-small size-anderson-category-posts-widget-small wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://www.motosblog.com.br/mb/wp-content/uploads/2021/10/Mulheres-Moto-120x80.png 120w, https://www.motosblog.com.br/mb/wp-content/uploads/2021/10/Mulheres-Moto-520x350.png 520w" sizes="(max-width: 120px) 100vw, 120px" /></a>
+					
+						<div class="small-posts-content">
+							<h2 class="post-title"><a href="https://www.motosblog.com.br/11877/mulheres-no-guidao-respeito-a-vida-constante/" rel="bookmark">Mulheres no guidão, respeito à vida constante.</a></h2>
+							<div class="postmeta">		
+		<span class="meta-date">
+		<a href="https://www.motosblog.com.br/11877/mulheres-no-guidao-respeito-a-vida-constante/" title="6:33" rel="bookmark"><time class="entry-date published updated" datetime="2021-10-27T06:33:00-03:00">27 de outubro de 2021</time></a>		</span>
+		
+	</div>
+						</div>
+
+					</article>
+
+				
+					<article id="post-11871" class="small-post clearfix post-11871 post type-post status-publish format-standard has-post-thumbnail hentry category-curiosidades category-destaques category-legislacao">
+
+											<a href="https://www.motosblog.com.br/11871/e-necessario-cnh-para-as-cinquentinhas/" rel="bookmark"><img width="120" height="80" src="https://www.motosblog.com.br/mb/wp-content/uploads/2021/10/Exigencia-CNH-120x80.png" class="attachment-anderson-category-posts-widget-small size-anderson-category-posts-widget-small wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://www.motosblog.com.br/mb/wp-content/uploads/2021/10/Exigencia-CNH-120x80.png 120w, https://www.motosblog.com.br/mb/wp-content/uploads/2021/10/Exigencia-CNH-520x350.png 520w" sizes="(max-width: 120px) 100vw, 120px" /></a>
+					
+						<div class="small-posts-content">
+							<h2 class="post-title"><a href="https://www.motosblog.com.br/11871/e-necessario-cnh-para-as-cinquentinhas/" rel="bookmark">É necessário CNH para as &#8220;cinquentinhas&#8221;?</a></h2>
+							<div class="postmeta">		
+		<span class="meta-date">
+		<a href="https://www.motosblog.com.br/11871/e-necessario-cnh-para-as-cinquentinhas/" title="21:42" rel="bookmark"><time class="entry-date published updated" datetime="2021-10-25T21:42:36-03:00">25 de outubro de 2021</time></a>		</span>
+		
+	</div>
+						</div>
+
+					</article>
+
+				
+					<article id="post-11867" class="small-post clearfix post-11867 post type-post status-publish format-standard has-post-thumbnail hentry category-destaques category-seguranca">
+
+											<a href="https://www.motosblog.com.br/11867/comecando-a-pilotar-motos/" rel="bookmark"><img width="120" height="80" src="https://www.motosblog.com.br/mb/wp-content/uploads/2021/10/Como-dirigir-moto-120x80.png" class="attachment-anderson-category-posts-widget-small size-anderson-category-posts-widget-small wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://www.motosblog.com.br/mb/wp-content/uploads/2021/10/Como-dirigir-moto-120x80.png 120w, https://www.motosblog.com.br/mb/wp-content/uploads/2021/10/Como-dirigir-moto-520x350.png 520w" sizes="(max-width: 120px) 100vw, 120px" /></a>
+					
+						<div class="small-posts-content">
+							<h2 class="post-title"><a href="https://www.motosblog.com.br/11867/comecando-a-pilotar-motos/" rel="bookmark">Começando a pilotar motos</a></h2>
+							<div class="postmeta">		
+		<span class="meta-date">
+		<a href="https://www.motosblog.com.br/11867/comecando-a-pilotar-motos/" title="21:33" rel="bookmark"><time class="entry-date published updated" datetime="2021-10-21T21:33:00-03:00">21 de outubro de 2021</time></a>		</span>
+		
+	</div>
+						</div>
+
+					</article>
+
+				
+					<article id="post-11861" class="small-post clearfix post-11861 post type-post status-publish format-standard has-post-thumbnail hentry category-acessorios category-destaques category-seguranca tag-capacete tag-motos tag-seguranca">
+
+											<a href="https://www.motosblog.com.br/11861/capacetes-para-andar-de-moto/" rel="bookmark"><img width="120" height="80" src="https://www.motosblog.com.br/mb/wp-content/uploads/2021/10/Capacete-120x80.png" class="attachment-anderson-category-posts-widget-small size-anderson-category-posts-widget-small wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://www.motosblog.com.br/mb/wp-content/uploads/2021/10/Capacete-120x80.png 120w, https://www.motosblog.com.br/mb/wp-content/uploads/2021/10/Capacete-520x350.png 520w" sizes="(max-width: 120px) 100vw, 120px" /></a>
+					
+						<div class="small-posts-content">
+							<h2 class="post-title"><a href="https://www.motosblog.com.br/11861/capacetes-para-andar-de-moto/" rel="bookmark">Capacetes para andar de moto</a></h2>
+							<div class="postmeta">		
+		<span class="meta-date">
+		<a href="https://www.motosblog.com.br/11861/capacetes-para-andar-de-moto/" title="21:48" rel="bookmark"><time class="entry-date published updated" datetime="2021-10-19T21:48:08-03:00">19 de outubro de 2021</time></a>		</span>
+		
+	</div>
+						</div>
+
+					</article>
+
+				
+					<article id="post-11236" class="small-post clearfix post-11236 post type-post status-publish format-standard has-post-thumbnail hentry category-destaques category-publicidade tag-avaliacoes tag-catalogo tag-especificacoes tag-fichas-tecnicas">
+
+											<a href="https://www.motosblog.com.br/11236/ficha-tecnica-e-o-novo-servico-do-motos-blog/" rel="bookmark"><img width="120" height="80" src="https://www.motosblog.com.br/mb/wp-content/uploads/2016/02/ft1-120x80.png" class="attachment-anderson-category-posts-widget-small size-anderson-category-posts-widget-small wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://www.motosblog.com.br/mb/wp-content/uploads/2016/02/ft1-120x80.png 120w, https://www.motosblog.com.br/mb/wp-content/uploads/2016/02/ft1-520x350.png 520w" sizes="(max-width: 120px) 100vw, 120px" /></a>
+					
+						<div class="small-posts-content">
+							<h2 class="post-title"><a href="https://www.motosblog.com.br/11236/ficha-tecnica-e-o-novo-servico-do-motos-blog/" rel="bookmark">&#8220;Ficha técnica&#8221; é o novo serviço do Motos Blog</a></h2>
+							<div class="postmeta">		
+		<span class="meta-date">
+		<a href="https://www.motosblog.com.br/11236/ficha-tecnica-e-o-novo-servico-do-motos-blog/" title="23:13" rel="bookmark"><time class="entry-date published updated" datetime="2016-02-13T23:13:39-03:00">13 de fevereiro de 2016</time></a>		</span>
+		
+	</div>
+						</div>
+
+					</article>
+
+							
+				</div><!-- end .small-posts -->
+				
+							
+			</div>
+			
+		</div>
+	</div><div id="anderson_category_posts_columns-2" class="widget anderson_category_posts_columns clearfix">		<div id="widget-category-posts-columns" class="widget-category-posts clearfix">
+
+			<div class="widget-category-posts-content">
+			
+						
+		<div class="category-posts-column-left category-posts-columns clearfix">
+		
+			<h3 class="widgettitle"><span><a href="https://www.motosblog.com.br/category/seguranca/" title="Ver todos os artigos da categoria Segurança">Segurança</a></span></h3>			
+			
+					<article id="post-11885" class="big-post post-11885 post type-post status-publish format-standard has-post-thumbnail hentry category-seguranca tag-capacete tag-nordeste">
+
+						
+			<div class="post-image-single">
+			
+				<a href="https://www.motosblog.com.br/11885/a-importancia-de-usar-capacete-no-nordeste/" rel="bookmark">
+					<img width="520" height="300" src="https://www.motosblog.com.br/mb/wp-content/uploads/2022/12/DALL·E-2022-12-06-15.14.24-Woman-wearing-a-motorcycle-helmet-on-a-motorcycle-in-the-desert-far-away-edited-520x300.png" class="attachment-anderson-category-posts-widget-big size-anderson-category-posts-widget-big wp-post-image" alt="" decoding="async" loading="lazy" />				</a>
+				
+				<div class="image-post-categories post-categories">
+					<ul class="post-categories">
+	<li><a href="https://www.motosblog.com.br/category/seguranca/" rel="category tag">Segurança</a></li></ul>				</div>
+				
+			</div>
+		
+		
+						<div class="post-content">
+							
+							<h3 class="post-title"><a href="https://www.motosblog.com.br/11885/a-importancia-de-usar-capacete-no-nordeste/" rel="bookmark">A importância de usar capacete no nordeste</a></h3>
+
+							<div class="postmeta">		
+		<span class="meta-date">
+		<a href="https://www.motosblog.com.br/11885/a-importancia-de-usar-capacete-no-nordeste/" title="15:55" rel="bookmark"><time class="entry-date published updated" datetime="2022-12-06T15:55:35-03:00">6 de dezembro de 2022</time></a>		</span>
+		
+			
+		<span class="meta-author">
+		<a class="fn" href="https://www.motosblog.com.br/author/matteo/" title="Ver todos os artigos de Matteo Osark" rel="author">Matteo Osark</a>		</span>
+	
+	</div>
+							
+							<div class="entry">
+								<p>Usar capacete ao andar de moto é extremamente importante, especialmente no clima seco do Nordeste Brasileiro. O uso do capacete [&#8230;]</p>
+								<a href="https://www.motosblog.com.br/11885/a-importancia-de-usar-capacete-no-nordeste/" class="more-link">&raquo; Leia mais</a>
+							</div>
+						
+						</div>
+
+					</article>
+
+				
+					<article id="post-11880" class="small-post clearfix post-11880 post type-post status-publish format-standard has-post-thumbnail hentry category-curiosidades category-destaques category-dicas category-dinheiro category-publicidade category-seguranca tag-seguro">
+
+											<a href="https://www.motosblog.com.br/11880/seguro-de-moto-vale-a-pena/" rel="bookmark"><img width="120" height="80" src="https://www.motosblog.com.br/mb/wp-content/uploads/2021/10/Seguro-120x80.png" class="attachment-anderson-category-posts-widget-small size-anderson-category-posts-widget-small wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://www.motosblog.com.br/mb/wp-content/uploads/2021/10/Seguro-120x80.png 120w, https://www.motosblog.com.br/mb/wp-content/uploads/2021/10/Seguro-520x350.png 520w" sizes="(max-width: 120px) 100vw, 120px" /></a>
+					
+						<div class="small-posts-content clearfix">
+							<h2 class="post-title"><a href="https://www.motosblog.com.br/11880/seguro-de-moto-vale-a-pena/" rel="bookmark">Seguro de moto &#8211; vale a pena?</a></h2>
+							<div class="postmeta">		
+		<span class="meta-date">
+		<a href="https://www.motosblog.com.br/11880/seguro-de-moto-vale-a-pena/" title="6:40" rel="bookmark"><time class="entry-date published updated" datetime="2021-10-29T06:40:00-03:00">29 de outubro de 2021</time></a>		</span>
+		
+	</div>
+						</div>
+
+					</article>
+
+				
+					<article id="post-11867" class="small-post clearfix post-11867 post type-post status-publish format-standard has-post-thumbnail hentry category-destaques category-seguranca">
+
+											<a href="https://www.motosblog.com.br/11867/comecando-a-pilotar-motos/" rel="bookmark"><img width="120" height="80" src="https://www.motosblog.com.br/mb/wp-content/uploads/2021/10/Como-dirigir-moto-120x80.png" class="attachment-anderson-category-posts-widget-small size-anderson-category-posts-widget-small wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://www.motosblog.com.br/mb/wp-content/uploads/2021/10/Como-dirigir-moto-120x80.png 120w, https://www.motosblog.com.br/mb/wp-content/uploads/2021/10/Como-dirigir-moto-520x350.png 520w" sizes="(max-width: 120px) 100vw, 120px" /></a>
+					
+						<div class="small-posts-content clearfix">
+							<h2 class="post-title"><a href="https://www.motosblog.com.br/11867/comecando-a-pilotar-motos/" rel="bookmark">Começando a pilotar motos</a></h2>
+							<div class="postmeta">		
+		<span class="meta-date">
+		<a href="https://www.motosblog.com.br/11867/comecando-a-pilotar-motos/" title="21:33" rel="bookmark"><time class="entry-date published updated" datetime="2021-10-21T21:33:00-03:00">21 de outubro de 2021</time></a>		</span>
+		
+	</div>
+						</div>
+
+					</article>
+
+				
+					<article id="post-11861" class="small-post clearfix post-11861 post type-post status-publish format-standard has-post-thumbnail hentry category-acessorios category-destaques category-seguranca tag-capacete tag-motos tag-seguranca">
+
+											<a href="https://www.motosblog.com.br/11861/capacetes-para-andar-de-moto/" rel="bookmark"><img width="120" height="80" src="https://www.motosblog.com.br/mb/wp-content/uploads/2021/10/Capacete-120x80.png" class="attachment-anderson-category-posts-widget-small size-anderson-category-posts-widget-small wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://www.motosblog.com.br/mb/wp-content/uploads/2021/10/Capacete-120x80.png 120w, https://www.motosblog.com.br/mb/wp-content/uploads/2021/10/Capacete-520x350.png 520w" sizes="(max-width: 120px) 100vw, 120px" /></a>
+					
+						<div class="small-posts-content clearfix">
+							<h2 class="post-title"><a href="https://www.motosblog.com.br/11861/capacetes-para-andar-de-moto/" rel="bookmark">Capacetes para andar de moto</a></h2>
+							<div class="postmeta">		
+		<span class="meta-date">
+		<a href="https://www.motosblog.com.br/11861/capacetes-para-andar-de-moto/" title="21:48" rel="bookmark"><time class="entry-date published updated" datetime="2021-10-19T21:48:08-03:00">19 de outubro de 2021</time></a>		</span>
+		
+	</div>
+						</div>
+
+					</article>
+
+							
+		</div>
+		
+		<div class="category-posts-column-right category-posts-columns clearfix">
+		
+			<h3 class="widgettitle"><span><a href="https://www.motosblog.com.br/category/manutencao/" title="Ver todos os artigos da categoria Mecânica">Mecânica</a></span></h3>			
+			
+					<article id="post-9948" class="big-post post-9948 post type-post status-publish format-standard has-post-thumbnail hentry category-dicas category-manutencao tag-defeitos-dl650 tag-defeitos-v-strom-650 tag-problemas-dl650 tag-problemas-v-strom">
+
+						
+			<div class="post-image-single">
+			
+				<a href="https://www.motosblog.com.br/9948/problemas-da-suzuki-dl650-v-strom/" rel="bookmark">
+					<img width="520" height="300" src="https://www.motosblog.com.br/mb/wp-content/uploads/2015/05/IMG_5533-520x300.jpg" class="attachment-anderson-category-posts-widget-big size-anderson-category-posts-widget-big wp-post-image" alt="" decoding="async" loading="lazy" />				</a>
+				
+				<div class="image-post-categories post-categories">
+					<ul class="post-categories">
+	<li><a href="https://www.motosblog.com.br/category/dicas/" rel="category tag">Dicas</a></li>
+	<li><a href="https://www.motosblog.com.br/category/manutencao/" rel="category tag">Mecânica</a></li></ul>				</div>
+				
+			</div>
+		
+		
+						<div class="post-content">
+							
+							<h3 class="post-title"><a href="https://www.motosblog.com.br/9948/problemas-da-suzuki-dl650-v-strom/" rel="bookmark">Problemas da Suzuki DL650 V-Strom</a></h3>
+
+							<div class="postmeta">		
+		<span class="meta-date">
+		<a href="https://www.motosblog.com.br/9948/problemas-da-suzuki-dl650-v-strom/" title="18:17" rel="bookmark"><time class="entry-date published updated" datetime="2015-05-15T18:17:58-03:00">15 de maio de 2015</time></a>		</span>
+		
+			
+		<span class="meta-author">
+		<a class="fn" href="https://www.motosblog.com.br/author/admin/" title="Ver todos os artigos de Daniel Ribeiro" rel="author">Daniel Ribeiro</a>		</span>
+	
+	</div>
+							
+							<div class="entry">
+								<p>Já rodei cerca de 80 mil km em quase 5 anos com a minha V-Strom 650 2010/2011, e acho já [&#8230;]</p>
+								<a href="https://www.motosblog.com.br/9948/problemas-da-suzuki-dl650-v-strom/" class="more-link">&raquo; Leia mais</a>
+							</div>
+						
+						</div>
+
+					</article>
+
+				
+					<article id="post-9955" class="small-post clearfix post-9955 post type-post status-publish format-standard has-post-thumbnail hentry category-curiosidades category-manutencao tag-bengala tag-gambiarra tag-garfo tag-moto tag-suspensao">
+
+											<a href="https://www.motosblog.com.br/9955/como-nao-consertar-garfos-das-motos/" rel="bookmark"><img width="120" height="80" src="https://www.motosblog.com.br/mb/wp-content/uploads/2015/04/20150411_121521-120x80.jpg" class="attachment-anderson-category-posts-widget-small size-anderson-category-posts-widget-small wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://www.motosblog.com.br/mb/wp-content/uploads/2015/04/20150411_121521-120x80.jpg 120w, https://www.motosblog.com.br/mb/wp-content/uploads/2015/04/20150411_121521-520x350.jpg 520w" sizes="(max-width: 120px) 100vw, 120px" /></a>
+					
+						<div class="small-posts-content clearfix">
+							<h2 class="post-title"><a href="https://www.motosblog.com.br/9955/como-nao-consertar-garfos-das-motos/" rel="bookmark">Como não consertar garfos das motos</a></h2>
+							<div class="postmeta">		
+		<span class="meta-date">
+		<a href="https://www.motosblog.com.br/9955/como-nao-consertar-garfos-das-motos/" title="16:53" rel="bookmark"><time class="entry-date published updated" datetime="2015-04-13T16:53:53-03:00">13 de abril de 2015</time></a>		</span>
+		
+	</div>
+						</div>
+
+					</article>
+
+				
+					<article id="post-9937" class="small-post clearfix post-9937 post type-post status-publish format-standard has-post-thumbnail hentry category-dinheiro category-manutencao tag-discos-de-freio tag-margarida tag-racing tag-v-strom-650 tag-wave">
+
+											<a href="https://www.motosblog.com.br/9937/discos-margarida-na-v-strom-650/" rel="bookmark"><img width="120" height="80" src="https://www.motosblog.com.br/mb/wp-content/uploads/2015/02/20150222_104111-590x369-120x80.jpg" class="attachment-anderson-category-posts-widget-small size-anderson-category-posts-widget-small wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://www.motosblog.com.br/mb/wp-content/uploads/2015/02/20150222_104111-590x369-120x80.jpg 120w, https://www.motosblog.com.br/mb/wp-content/uploads/2015/02/20150222_104111-590x369-520x350.jpg 520w" sizes="(max-width: 120px) 100vw, 120px" /></a>
+					
+						<div class="small-posts-content clearfix">
+							<h2 class="post-title"><a href="https://www.motosblog.com.br/9937/discos-margarida-na-v-strom-650/" rel="bookmark">Discos Margarida na V-Strom 650</a></h2>
+							<div class="postmeta">		
+		<span class="meta-date">
+		<a href="https://www.motosblog.com.br/9937/discos-margarida-na-v-strom-650/" title="16:01" rel="bookmark"><time class="entry-date published updated" datetime="2015-02-23T16:01:07-03:00">23 de fevereiro de 2015</time></a>		</span>
+		
+	</div>
+						</div>
+
+					</article>
+
+				
+					<article id="post-9882" class="small-post clearfix post-9882 post type-post status-publish format-standard has-post-thumbnail hentry category-destaques category-dicas category-manutencao category-preparacao tag-diferenca tag-funcionamento tag-velas-iridium">
+
+											<a href="https://www.motosblog.com.br/9882/velas-iridium-afinal-qual-a-diferenca/" rel="bookmark"><img width="120" height="80" src="https://www.motosblog.com.br/mb/wp-content/uploads/2014/04/CR8EIX-120x80.jpg" class="attachment-anderson-category-posts-widget-small size-anderson-category-posts-widget-small wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://www.motosblog.com.br/mb/wp-content/uploads/2014/04/CR8EIX-120x80.jpg 120w, https://www.motosblog.com.br/mb/wp-content/uploads/2014/04/CR8EIX-520x350.jpg 520w" sizes="(max-width: 120px) 100vw, 120px" /></a>
+					
+						<div class="small-posts-content clearfix">
+							<h2 class="post-title"><a href="https://www.motosblog.com.br/9882/velas-iridium-afinal-qual-a-diferenca/" rel="bookmark">Velas Iridium &#8211; Afinal, qual a diferença?</a></h2>
+							<div class="postmeta">		
+		<span class="meta-date">
+		<a href="https://www.motosblog.com.br/9882/velas-iridium-afinal-qual-a-diferenca/" title="20:52" rel="bookmark"><time class="entry-date published updated" datetime="2014-04-02T20:52:47-03:00">2 de abril de 2014</time></a>		</span>
+		
+	</div>
+						</div>
+
+					</article>
+
+							
+		</div>
+		
+						
+			</div>
+			
+		</div>
+	</div><div id="anderson_category_posts_grid-2" class="widget anderson_category_posts_grid clearfix">		<div id="widget-category-posts-grid" class="widget-category-posts clearfix">
+		
+			<h3 class="widgettitle"><span><a href="https://www.motosblog.com.br/category/noticias/" title="Ver todos os artigos da categoria Notícias">Notícias</a></span></h3>			
+			<div class="widget-category-posts-content">
+			
+							
+					<div class="category-posts-grid-row clearfix">
+		
+				
+				
+					<article id="post-9853" class="small-post clearfix post-9853 post type-post status-publish format-standard has-post-thumbnail hentry category-noticias tag-colete-airbag tag-limitador-velocidade tag-moto">
+
+											<a href="https://www.motosblog.com.br/9853/uso-obrigatorio-de-colete-airbag-e-limitador-de-velocidade-e-aprovado-no-senado/" rel="bookmark"><img width="120" height="80" src="https://www.motosblog.com.br/mb/wp-content/uploads/2013/12/air-bag-para-moto-120x80.jpg" class="attachment-anderson-category-posts-widget-small size-anderson-category-posts-widget-small wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://www.motosblog.com.br/mb/wp-content/uploads/2013/12/air-bag-para-moto-120x80.jpg 120w, https://www.motosblog.com.br/mb/wp-content/uploads/2013/12/air-bag-para-moto-520x350.jpg 520w" sizes="(max-width: 120px) 100vw, 120px" /></a>
+					
+						<div class="small-posts-content">
+							<h2 class="post-title"><a href="https://www.motosblog.com.br/9853/uso-obrigatorio-de-colete-airbag-e-limitador-de-velocidade-e-aprovado-no-senado/" rel="bookmark">Uso obrigatório de &#8220;Colete Airbag&#8221; e limitador de velocidade é aprovado no senado</a></h2>
+							<div class="postmeta">		
+		<span class="meta-date">
+		<a href="https://www.motosblog.com.br/9853/uso-obrigatorio-de-colete-airbag-e-limitador-de-velocidade-e-aprovado-no-senado/" title="9:59" rel="bookmark"><time class="entry-date published updated" datetime="2013-12-05T09:59:35-03:00">5 de dezembro de 2013</time></a>		</span>
+		
+	</div>
+						</div>
+
+					</article>
+
+								
+				
+				
+					<article id="post-9505" class="small-post clearfix post-9505 post type-post status-publish format-standard has-post-thumbnail hentry category-curiosidades category-destaques category-noticias category-quentes tag-563 tag-campeao tag-motos-blog tag-premio-top-blog">
+
+											<a href="https://www.motosblog.com.br/9505/motos-blog-foi-vencedor-no-premio-top-blog-2012/" rel="bookmark"><img width="120" height="80" src="https://www.motosblog.com.br/mb/wp-content/uploads/2013/01/Trofeu-120x80.jpg" class="attachment-anderson-category-posts-widget-small size-anderson-category-posts-widget-small wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://www.motosblog.com.br/mb/wp-content/uploads/2013/01/Trofeu-120x80.jpg 120w, https://www.motosblog.com.br/mb/wp-content/uploads/2013/01/Trofeu-570x380.jpg 570w, https://www.motosblog.com.br/mb/wp-content/uploads/2013/01/Trofeu-590x393.jpg 590w, https://www.motosblog.com.br/mb/wp-content/uploads/2013/01/Trofeu-520x350.jpg 520w, https://www.motosblog.com.br/mb/wp-content/uploads/2013/01/Trofeu.jpg 2048w" sizes="(max-width: 120px) 100vw, 120px" /></a>
+					
+						<div class="small-posts-content">
+							<h2 class="post-title"><a href="https://www.motosblog.com.br/9505/motos-blog-foi-vencedor-no-premio-top-blog-2012/" rel="bookmark">Motos Blog foi vencedor no prêmio Top Blog 2012!</a></h2>
+							<div class="postmeta">		
+		<span class="meta-date">
+		<a href="https://www.motosblog.com.br/9505/motos-blog-foi-vencedor-no-premio-top-blog-2012/" title="6:03" rel="bookmark"><time class="entry-date published updated" datetime="2013-01-31T06:03:23-03:00">31 de janeiro de 2013</time></a>		</span>
+		
+	</div>
+						</div>
+
+					</article>
+
+								
+								
+					</div>
+				
+							
+					<div class="category-posts-grid-row clearfix">
+		
+				
+				
+					<article id="post-9015" class="small-post clearfix post-9015 post type-post status-publish format-standard has-post-thumbnail hentry category-destaques category-noticias tag-finalista tag-premio-top-blog-2012">
+
+											<a href="https://www.motosblog.com.br/9015/motos-blog-e-finalista-no-premio-top-blog-2012/" rel="bookmark"><img width="120" height="80" src="https://www.motosblog.com.br/mb/wp-content/uploads/2012/12/TopBlogFaceBookDourado-590x590-120x80.jpg" class="attachment-anderson-category-posts-widget-small size-anderson-category-posts-widget-small wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://www.motosblog.com.br/mb/wp-content/uploads/2012/12/TopBlogFaceBookDourado-590x590-120x80.jpg 120w, https://www.motosblog.com.br/mb/wp-content/uploads/2012/12/TopBlogFaceBookDourado-590x590-520x350.jpg 520w" sizes="(max-width: 120px) 100vw, 120px" /></a>
+					
+						<div class="small-posts-content">
+							<h2 class="post-title"><a href="https://www.motosblog.com.br/9015/motos-blog-e-finalista-no-premio-top-blog-2012/" rel="bookmark">Motos Blog é finalista no prêmio Top Blog 2012!</a></h2>
+							<div class="postmeta">		
+		<span class="meta-date">
+		<a href="https://www.motosblog.com.br/9015/motos-blog-e-finalista-no-premio-top-blog-2012/" title="7:45" rel="bookmark"><time class="entry-date published updated" datetime="2012-12-06T07:45:53-03:00">6 de dezembro de 2012</time></a>		</span>
+		
+	</div>
+						</div>
+
+					</article>
+
+								
+				
+				
+					<article id="post-8916" class="small-post clearfix post-8916 post type-post status-publish format-standard has-post-thumbnail hentry category-dinheiro category-legislacao category-noticias tag-dpvat-2013 tag-dpvat-parcelado tag-parcelamento-dpvat tag-seguro-dpvat tag-valor-dpvat">
+
+											<a href="https://www.motosblog.com.br/8916/dpvat-parcelado-em-2013/" rel="bookmark"><img width="120" height="80" src="https://www.motosblog.com.br/mb/wp-content/uploads/2012/11/seguro-dpvat-120x80.jpg" class="attachment-anderson-category-posts-widget-small size-anderson-category-posts-widget-small wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://www.motosblog.com.br/mb/wp-content/uploads/2012/11/seguro-dpvat-120x80.jpg 120w, https://www.motosblog.com.br/mb/wp-content/uploads/2012/11/seguro-dpvat-520x350.jpg 520w" sizes="(max-width: 120px) 100vw, 120px" /></a>
+					
+						<div class="small-posts-content">
+							<h2 class="post-title"><a href="https://www.motosblog.com.br/8916/dpvat-parcelado-em-2013/" rel="bookmark">DPVAT parcelado em 2013</a></h2>
+							<div class="postmeta">		
+		<span class="meta-date">
+		<a href="https://www.motosblog.com.br/8916/dpvat-parcelado-em-2013/" title="12:49" rel="bookmark"><time class="entry-date published updated" datetime="2012-11-02T12:49:47-03:00">2 de novembro de 2012</time></a>		</span>
+		
+	</div>
+						</div>
+
+					</article>
+
+								
+								
+					</div>
+				
+							
+					<div class="category-posts-grid-row clearfix">
+		
+				
+				
+					<article id="post-8885" class="small-post clearfix post-8885 post type-post status-publish format-standard has-post-thumbnail hentry category-curiosidades category-dicas category-noticias tag-gopro-hero-3 tag-salao-da-motocicleta tag-testes">
+
+											<a href="https://www.motosblog.com.br/8885/curtas-do-motos-blog-7/" rel="bookmark"><img width="120" height="80" src="https://www.motosblog.com.br/mb/wp-content/uploads/2012/10/GoPro-Hero-3b-120x80.jpg" class="attachment-anderson-category-posts-widget-small size-anderson-category-posts-widget-small wp-post-image" alt="GoPro Hero 3" decoding="async" loading="lazy" srcset="https://www.motosblog.com.br/mb/wp-content/uploads/2012/10/GoPro-Hero-3b-120x80.jpg 120w, https://www.motosblog.com.br/mb/wp-content/uploads/2012/10/GoPro-Hero-3b-520x350.jpg 520w" sizes="(max-width: 120px) 100vw, 120px" /></a>
+					
+						<div class="small-posts-content">
+							<h2 class="post-title"><a href="https://www.motosblog.com.br/8885/curtas-do-motos-blog-7/" rel="bookmark">Curtas do Motos Blog #7</a></h2>
+							<div class="postmeta">		
+		<span class="meta-date">
+		<a href="https://www.motosblog.com.br/8885/curtas-do-motos-blog-7/" title="19:50" rel="bookmark"><time class="entry-date published updated" datetime="2012-10-19T19:50:34-03:00">19 de outubro de 2012</time></a>		</span>
+		
+	</div>
+						</div>
+
+					</article>
+
+								
+				
+				
+					<article id="post-8794" class="small-post clearfix post-8794 post type-post status-publish format-standard has-post-thumbnail hentry category-noticias tag-bandit tag-boulevard tag-luvas tag-promocao-suzuki tag-v-strom tag-x11">
+
+											<a href="https://www.motosblog.com.br/8794/curtas-do-motos-blog-5/" rel="bookmark"><img width="120" height="80" src="https://www.motosblog.com.br/mb/wp-content/uploads/2012/09/Promoção-Suzuki-120x80.jpg" class="attachment-anderson-category-posts-widget-small size-anderson-category-posts-widget-small wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://www.motosblog.com.br/mb/wp-content/uploads/2012/09/Promoção-Suzuki-120x80.jpg 120w, https://www.motosblog.com.br/mb/wp-content/uploads/2012/09/Promoção-Suzuki-570x375.jpg 570w, https://www.motosblog.com.br/mb/wp-content/uploads/2012/09/Promoção-Suzuki-590x389.jpg 590w, https://www.motosblog.com.br/mb/wp-content/uploads/2012/09/Promoção-Suzuki-520x350.jpg 520w, https://www.motosblog.com.br/mb/wp-content/uploads/2012/09/Promoção-Suzuki.jpg 800w" sizes="(max-width: 120px) 100vw, 120px" /></a>
+					
+						<div class="small-posts-content">
+							<h2 class="post-title"><a href="https://www.motosblog.com.br/8794/curtas-do-motos-blog-5/" rel="bookmark">Curtas do Motos Blog #5</a></h2>
+							<div class="postmeta">		
+		<span class="meta-date">
+		<a href="https://www.motosblog.com.br/8794/curtas-do-motos-blog-5/" title="20:02" rel="bookmark"><time class="entry-date published updated" datetime="2012-09-28T20:02:27-03:00">28 de setembro de 2012</time></a>		</span>
+		
+	</div>
+						</div>
+
+					</article>
+
+								
+								
+					</div>
+				
+							
+					<div class="category-posts-grid-row clearfix">
+		
+				
+				
+					<article id="post-8777" class="small-post clearfix post-8777 post type-post status-publish format-standard has-post-thumbnail hentry category-noticias category-opiniao tag-capacete-com-leds tag-curtas tag-motocast">
+
+											<a href="https://www.motosblog.com.br/8777/curtas-do-motos-blog-4/" rel="bookmark"><img width="120" height="80" src="https://www.motosblog.com.br/mb/wp-content/uploads/2012/09/Capacete-Leds-120x80.jpg" class="attachment-anderson-category-posts-widget-small size-anderson-category-posts-widget-small wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://www.motosblog.com.br/mb/wp-content/uploads/2012/09/Capacete-Leds-120x80.jpg 120w, https://www.motosblog.com.br/mb/wp-content/uploads/2012/09/Capacete-Leds-520x350.jpg 520w" sizes="(max-width: 120px) 100vw, 120px" /></a>
+					
+						<div class="small-posts-content">
+							<h2 class="post-title"><a href="https://www.motosblog.com.br/8777/curtas-do-motos-blog-4/" rel="bookmark">Curtas do Motos Blog #4</a></h2>
+							<div class="postmeta">		
+		<span class="meta-date">
+		<a href="https://www.motosblog.com.br/8777/curtas-do-motos-blog-4/" title="7:37" rel="bookmark"><time class="entry-date published updated" datetime="2012-09-21T07:37:53-03:00">21 de setembro de 2012</time></a>		</span>
+		
+	</div>
+						</div>
+
+					</article>
+
+								
+				
+				
+					<article id="post-8738" class="small-post clearfix post-8738 post type-post status-publish format-standard has-post-thumbnail hentry category-noticias tag-ducati tag-hover tag-soninha">
+
+											<a href="https://www.motosblog.com.br/8738/curtas-do-motos-blog-3/" rel="bookmark"><img width="120" height="80" src="https://www.motosblog.com.br/mb/wp-content/uploads/2012/09/Panigale-120x80.jpg" class="attachment-anderson-category-posts-widget-small size-anderson-category-posts-widget-small wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://www.motosblog.com.br/mb/wp-content/uploads/2012/09/Panigale-120x80.jpg 120w, https://www.motosblog.com.br/mb/wp-content/uploads/2012/09/Panigale-520x350.jpg 520w" sizes="(max-width: 120px) 100vw, 120px" /></a>
+					
+						<div class="small-posts-content">
+							<h2 class="post-title"><a href="https://www.motosblog.com.br/8738/curtas-do-motos-blog-3/" rel="bookmark">Curtas do Motos Blog #3</a></h2>
+							<div class="postmeta">		
+		<span class="meta-date">
+		<a href="https://www.motosblog.com.br/8738/curtas-do-motos-blog-3/" title="7:03" rel="bookmark"><time class="entry-date published updated" datetime="2012-09-14T07:03:33-03:00">14 de setembro de 2012</time></a>		</span>
+		
+	</div>
+						</div>
+
+					</article>
+
+								
+								
+					</div>
+				
+								
+			</div>
+			
+		</div>
+	</div><div id="anderson_category_posts_columns-3" class="widget anderson_category_posts_columns clearfix">		<div id="widget-category-posts-columns" class="widget-category-posts clearfix">
+
+			<div class="widget-category-posts-content">
+			
+						
+		<div class="category-posts-column-left category-posts-columns clearfix">
+		
+			<h3 class="widgettitle"><span><a href="https://www.motosblog.com.br/category/curiosidades/" title="Ver todos os artigos da categoria Curiosidades">Curiosidades</a></span></h3>			
+			
+					<article id="post-11880" class="big-post post-11880 post type-post status-publish format-standard has-post-thumbnail hentry category-curiosidades category-destaques category-dicas category-dinheiro category-publicidade category-seguranca tag-seguro">
+
+						
+			<div class="post-image-single">
+			
+				<a href="https://www.motosblog.com.br/11880/seguro-de-moto-vale-a-pena/" rel="bookmark">
+					<img width="520" height="300" src="https://www.motosblog.com.br/mb/wp-content/uploads/2021/10/Seguro-520x300.png" class="attachment-anderson-category-posts-widget-big size-anderson-category-posts-widget-big wp-post-image" alt="" decoding="async" loading="lazy" />				</a>
+				
+				<div class="image-post-categories post-categories">
+					<ul class="post-categories">
+	<li><a href="https://www.motosblog.com.br/category/curiosidades/" rel="category tag">Curiosidades</a></li>
+	<li><a href="https://www.motosblog.com.br/category/destaques/" rel="category tag">Destaques</a></li>
+	<li><a href="https://www.motosblog.com.br/category/dicas/" rel="category tag">Dicas</a></li>
+	<li><a href="https://www.motosblog.com.br/category/dinheiro/" rel="category tag">Dinheiro</a></li>
+	<li><a href="https://www.motosblog.com.br/category/publicidade/" rel="category tag">Publicidade</a></li>
+	<li><a href="https://www.motosblog.com.br/category/seguranca/" rel="category tag">Segurança</a></li></ul>				</div>
+				
+			</div>
+		
+		
+						<div class="post-content">
+							
+							<h3 class="post-title"><a href="https://www.motosblog.com.br/11880/seguro-de-moto-vale-a-pena/" rel="bookmark">Seguro de moto &#8211; vale a pena?</a></h3>
+
+							<div class="postmeta">		
+		<span class="meta-date">
+		<a href="https://www.motosblog.com.br/11880/seguro-de-moto-vale-a-pena/" title="6:40" rel="bookmark"><time class="entry-date published updated" datetime="2021-10-29T06:40:00-03:00">29 de outubro de 2021</time></a>		</span>
+		
+			
+		<span class="meta-author">
+		<a class="fn" href="https://www.motosblog.com.br/author/admin/" title="Ver todos os artigos de Daniel Ribeiro" rel="author">Daniel Ribeiro</a>		</span>
+	
+	</div>
+							
+							<div class="entry">
+								<p>Será que vale a pena fazer o seguro de uma moto pagando 10% do valor dela? Com certeza. Em alguns [&#8230;]</p>
+								<a href="https://www.motosblog.com.br/11880/seguro-de-moto-vale-a-pena/" class="more-link">&raquo; Leia mais</a>
+							</div>
+						
+						</div>
+
+					</article>
+
+				
+					<article id="post-11877" class="small-post clearfix post-11877 post type-post status-publish format-standard has-post-thumbnail hentry category-curiosidades category-destaques category-dicas tag-mulheres">
+
+											<a href="https://www.motosblog.com.br/11877/mulheres-no-guidao-respeito-a-vida-constante/" rel="bookmark"><img width="120" height="80" src="https://www.motosblog.com.br/mb/wp-content/uploads/2021/10/Mulheres-Moto-120x80.png" class="attachment-anderson-category-posts-widget-small size-anderson-category-posts-widget-small wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://www.motosblog.com.br/mb/wp-content/uploads/2021/10/Mulheres-Moto-120x80.png 120w, https://www.motosblog.com.br/mb/wp-content/uploads/2021/10/Mulheres-Moto-520x350.png 520w" sizes="(max-width: 120px) 100vw, 120px" /></a>
+					
+						<div class="small-posts-content clearfix">
+							<h2 class="post-title"><a href="https://www.motosblog.com.br/11877/mulheres-no-guidao-respeito-a-vida-constante/" rel="bookmark">Mulheres no guidão, respeito à vida constante.</a></h2>
+							<div class="postmeta">		
+		<span class="meta-date">
+		<a href="https://www.motosblog.com.br/11877/mulheres-no-guidao-respeito-a-vida-constante/" title="6:33" rel="bookmark"><time class="entry-date published updated" datetime="2021-10-27T06:33:00-03:00">27 de outubro de 2021</time></a>		</span>
+		
+	</div>
+						</div>
+
+					</article>
+
+				
+					<article id="post-11871" class="small-post clearfix post-11871 post type-post status-publish format-standard has-post-thumbnail hentry category-curiosidades category-destaques category-legislacao">
+
+											<a href="https://www.motosblog.com.br/11871/e-necessario-cnh-para-as-cinquentinhas/" rel="bookmark"><img width="120" height="80" src="https://www.motosblog.com.br/mb/wp-content/uploads/2021/10/Exigencia-CNH-120x80.png" class="attachment-anderson-category-posts-widget-small size-anderson-category-posts-widget-small wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://www.motosblog.com.br/mb/wp-content/uploads/2021/10/Exigencia-CNH-120x80.png 120w, https://www.motosblog.com.br/mb/wp-content/uploads/2021/10/Exigencia-CNH-520x350.png 520w" sizes="(max-width: 120px) 100vw, 120px" /></a>
+					
+						<div class="small-posts-content clearfix">
+							<h2 class="post-title"><a href="https://www.motosblog.com.br/11871/e-necessario-cnh-para-as-cinquentinhas/" rel="bookmark">É necessário CNH para as &#8220;cinquentinhas&#8221;?</a></h2>
+							<div class="postmeta">		
+		<span class="meta-date">
+		<a href="https://www.motosblog.com.br/11871/e-necessario-cnh-para-as-cinquentinhas/" title="21:42" rel="bookmark"><time class="entry-date published updated" datetime="2021-10-25T21:42:36-03:00">25 de outubro de 2021</time></a>		</span>
+		
+	</div>
+						</div>
+
+					</article>
+
+				
+					<article id="post-11137" class="small-post clearfix post-11137 post type-post status-publish format-standard has-post-thumbnail hentry category-curiosidades category-destaques category-eventos tag-2649 tag-belas tag-bonitas tag-garotas tag-modelos tag-mulheres tag-salao-duas-rodas">
+
+											<a href="https://www.motosblog.com.br/11137/garotas-do-salao-duas-rodas-2015/" rel="bookmark"><img width="120" height="80" src="https://www.motosblog.com.br/mb/wp-content/uploads/2015/10/IMG_7561-120x80.jpg" class="attachment-anderson-category-posts-widget-small size-anderson-category-posts-widget-small wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://www.motosblog.com.br/mb/wp-content/uploads/2015/10/IMG_7561-120x80.jpg 120w, https://www.motosblog.com.br/mb/wp-content/uploads/2015/10/IMG_7561-570x380.jpg 570w, https://www.motosblog.com.br/mb/wp-content/uploads/2015/10/IMG_7561-590x393.jpg 590w, https://www.motosblog.com.br/mb/wp-content/uploads/2015/10/IMG_7561-520x350.jpg 520w, https://www.motosblog.com.br/mb/wp-content/uploads/2015/10/IMG_7561.jpg 1920w" sizes="(max-width: 120px) 100vw, 120px" /></a>
+					
+						<div class="small-posts-content clearfix">
+							<h2 class="post-title"><a href="https://www.motosblog.com.br/11137/garotas-do-salao-duas-rodas-2015/" rel="bookmark">Garotas do Salão Duas Rodas 2015</a></h2>
+							<div class="postmeta">		
+		<span class="meta-date">
+		<a href="https://www.motosblog.com.br/11137/garotas-do-salao-duas-rodas-2015/" title="1:50" rel="bookmark"><time class="entry-date published updated" datetime="2015-10-11T01:50:41-03:00">11 de outubro de 2015</time></a>		</span>
+		
+	</div>
+						</div>
+
+					</article>
+
+							
+		</div>
+		
+		<div class="category-posts-column-right category-posts-columns clearfix">
+		
+			<h3 class="widgettitle"><span><a href="https://www.motosblog.com.br/category/opiniao/" title="Ver todos os artigos da categoria Opinião">Opinião</a></span></h3>			
+			
+					<article id="post-9527" class="big-post post-9527 post type-post status-publish format-standard has-post-thumbnail hentry category-honda category-opiniao category-scooter category-testes tag-defeitos tag-freios tag-honda-lead tag-problemas tag-problemas-de-coluna tag-scooter tag-seguranca">
+
+						
+			<div class="post-image-single">
+			
+				<a href="https://www.motosblog.com.br/9527/porque-nao-ter-uma-honda-lead/" rel="bookmark">
+					<img width="520" height="300" src="https://www.motosblog.com.br/mb/wp-content/uploads/2013/02/IMG_5621-520x300.jpg" class="attachment-anderson-category-posts-widget-big size-anderson-category-posts-widget-big wp-post-image" alt="" decoding="async" loading="lazy" />				</a>
+				
+				<div class="image-post-categories post-categories">
+					<ul class="post-categories">
+	<li><a href="https://www.motosblog.com.br/category/marcas/honda/" rel="category tag">Honda</a></li>
+	<li><a href="https://www.motosblog.com.br/category/opiniao/" rel="category tag">Opinião</a></li>
+	<li><a href="https://www.motosblog.com.br/category/scooter/" rel="category tag">Scooter</a></li>
+	<li><a href="https://www.motosblog.com.br/category/testes/" rel="category tag">Testes</a></li></ul>				</div>
+				
+			</div>
+		
+		
+						<div class="post-content">
+							
+							<h3 class="post-title"><a href="https://www.motosblog.com.br/9527/porque-nao-ter-uma-honda-lead/" rel="bookmark">Porquê NÃO ter uma Honda Lead</a></h3>
+
+							<div class="postmeta">		
+		<span class="meta-date">
+		<a href="https://www.motosblog.com.br/9527/porque-nao-ter-uma-honda-lead/" title="21:33" rel="bookmark"><time class="entry-date published updated" datetime="2013-02-25T21:33:33-03:00">25 de fevereiro de 2013</time></a>		</span>
+		
+			
+		<span class="meta-author">
+		<a class="fn" href="https://www.motosblog.com.br/author/luana/" title="Ver todos os artigos de Luana" rel="author">Luana</a>		</span>
+	
+	</div>
+							
+							<div class="entry">
+								<p>Há muito tempo estive querendo escrever este post, mas por causa do que aconteceu no final do ano passado, ficaria [&#8230;]</p>
+								<a href="https://www.motosblog.com.br/9527/porque-nao-ter-uma-honda-lead/" class="more-link">&raquo; Leia mais</a>
+							</div>
+						
+						</div>
+
+					</article>
+
+				
+					<article id="post-9053" class="small-post clearfix post-9053 post type-post status-publish format-standard has-post-thumbnail hentry category-opiniao tag-assalto tag-assassinados tag-correr tag-fuga tag-morte tag-reagir">
+
+											<a href="https://www.motosblog.com.br/9053/voce-nao-pode-mais-andar-de-moto/" rel="bookmark"><img width="120" height="80" src="https://www.motosblog.com.br/mb/wp-content/uploads/2012/12/Casal-120x80.jpg" class="attachment-anderson-category-posts-widget-small size-anderson-category-posts-widget-small wp-post-image" alt="Sibele Karla Pedroso e Rafael Jesus Fulaz" decoding="async" loading="lazy" srcset="https://www.motosblog.com.br/mb/wp-content/uploads/2012/12/Casal-120x80.jpg 120w, https://www.motosblog.com.br/mb/wp-content/uploads/2012/12/Casal-520x350.jpg 520w" sizes="(max-width: 120px) 100vw, 120px" /></a>
+					
+						<div class="small-posts-content clearfix">
+							<h2 class="post-title"><a href="https://www.motosblog.com.br/9053/voce-nao-pode-mais-andar-de-moto/" rel="bookmark">Você não pode mais andar de moto!</a></h2>
+							<div class="postmeta">		
+		<span class="meta-date">
+		<a href="https://www.motosblog.com.br/9053/voce-nao-pode-mais-andar-de-moto/" title="7:42" rel="bookmark"><time class="entry-date published updated" datetime="2012-12-10T07:42:02-03:00">10 de dezembro de 2012</time></a>		</span>
+		
+	</div>
+						</div>
+
+					</article>
+
+				
+					<article id="post-8995" class="small-post clearfix post-8995 post type-post status-publish format-standard has-post-thumbnail hentry category-destaques category-legislacao category-opiniao category-seguranca tag-acidentes tag-acidentes-com-motos tag-acidentes-envolvendo-motos tag-epidemia tag-estatisticas tag-mortes tag-motos tag-seguranca tag-transito">
+
+											<a href="https://www.motosblog.com.br/8995/as-motos-o-transito-e-a-morte/" rel="bookmark"><img width="120" height="80" src="https://www.motosblog.com.br/mb/wp-content/uploads/2012/12/NXR-150-Bros_movimento_2-590x393-120x80.jpg" class="attachment-anderson-category-posts-widget-small size-anderson-category-posts-widget-small wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://www.motosblog.com.br/mb/wp-content/uploads/2012/12/NXR-150-Bros_movimento_2-590x393-120x80.jpg 120w, https://www.motosblog.com.br/mb/wp-content/uploads/2012/12/NXR-150-Bros_movimento_2-590x393-570x380.jpg 570w, https://www.motosblog.com.br/mb/wp-content/uploads/2012/12/NXR-150-Bros_movimento_2-590x393.jpg 590w, https://www.motosblog.com.br/mb/wp-content/uploads/2012/12/NXR-150-Bros_movimento_2-590x393-520x350.jpg 520w" sizes="(max-width: 120px) 100vw, 120px" /></a>
+					
+						<div class="small-posts-content clearfix">
+							<h2 class="post-title"><a href="https://www.motosblog.com.br/8995/as-motos-o-transito-e-a-morte/" rel="bookmark">As motos, o trânsito, e a morte</a></h2>
+							<div class="postmeta">		
+		<span class="meta-date">
+		<a href="https://www.motosblog.com.br/8995/as-motos-o-transito-e-a-morte/" title="7:07" rel="bookmark"><time class="entry-date published updated" datetime="2012-12-03T07:07:50-03:00">3 de dezembro de 2012</time></a>		</span>
+		
+	</div>
+						</div>
+
+					</article>
+
+				
+					<article id="post-8777" class="small-post clearfix post-8777 post type-post status-publish format-standard has-post-thumbnail hentry category-noticias category-opiniao tag-capacete-com-leds tag-curtas tag-motocast">
+
+											<a href="https://www.motosblog.com.br/8777/curtas-do-motos-blog-4/" rel="bookmark"><img width="120" height="80" src="https://www.motosblog.com.br/mb/wp-content/uploads/2012/09/Capacete-Leds-120x80.jpg" class="attachment-anderson-category-posts-widget-small size-anderson-category-posts-widget-small wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://www.motosblog.com.br/mb/wp-content/uploads/2012/09/Capacete-Leds-120x80.jpg 120w, https://www.motosblog.com.br/mb/wp-content/uploads/2012/09/Capacete-Leds-520x350.jpg 520w" sizes="(max-width: 120px) 100vw, 120px" /></a>
+					
+						<div class="small-posts-content clearfix">
+							<h2 class="post-title"><a href="https://www.motosblog.com.br/8777/curtas-do-motos-blog-4/" rel="bookmark">Curtas do Motos Blog #4</a></h2>
+							<div class="postmeta">		
+		<span class="meta-date">
+		<a href="https://www.motosblog.com.br/8777/curtas-do-motos-blog-4/" title="7:37" rel="bookmark"><time class="entry-date published updated" datetime="2012-09-21T07:37:53-03:00">21 de setembro de 2012</time></a>		</span>
+		
+	</div>
+						</div>
+
+					</article>
+
+							
+		</div>
+		
+						
+			</div>
+			
+		</div>
+	</div>
+			</div>
+
+		
+		</section>
+		
+			<section id="sidebar" class="secondary clearfix" role="complementary">
+		
+			<aside class="widget widget_text clearfix">
+				<div class="textwidget">
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Sidebar Ficha Tecnica -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3393676289405739"
+     data-ad-slot="8285533858"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+				</div>
+			</aside>
+		<aside id="text-433787437" class="widget widget_text clearfix"><h3 class="widgettitle"><span>Assine GRÁTIS o Boletim informativo</span></h3>			<div class="textwidget"><form class="subsform" method="post" action="http://scripts.dreamhost.com/add_list.cgi"> 
+<input type="hidden" name="list" value="boletim@motosblog.com.br" /> 
+<input type="hidden" name="domain" value="motosblog.com.br" /> 
+<input type="hidden" name="url" value="http://www.motosblog.com.br/lista/bemvindo.php" /> 
+<input type="hidden" name="unsuburl" value="http://www.motosblog.com.br/lista/sair.php" /> 
+<input type="hidden" name="alreadyonurl" value="http://www.motosblog.com.br/lista/jaassinou.php" /> 
+<input type="hidden" name="notonurl" value="http://www.motosblog.com.br/lista/naoassinou.php" /> 
+<input type="hidden" name="invalidurl" value="http://www.motosblog.com.br/lista/emailinvalido.php" /> 
+<input type="hidden" name="emailconfirmurl" value="http://www.motosblog.com.br/lista/confirme.php" />
+<input name="name" size="25" type="hidden" />
+<input name="email" type="text" placeholder="Digite seu e-mail" /><input type="submit" name="submitboletim" value="Assinar" /></form></div>
+		</aside><aside id="text-433787438" class="widget widget_text clearfix"><h3 class="widgettitle"><span>Prêmio TopBlog</span></h3>			<div class="textwidget"><a href="https://www.motosblog.com.br/9505/motos-blog-foi-vencedor-no-premio-top-blog-2012/"><img src="https://www.motosblog.com.br/mb/wp-content/uploads/2013/01/TopBlog.png" border='0' /></a>
+</div>
+		</aside><aside id="categories-304230811" class="widget widget_categories clearfix"><h3 class="widgettitle"><span>Categorias</span></h3>
+			<ul>
+					<li class="cat-item cat-item-8"><a href="https://www.motosblog.com.br/category/acessorios/">Acessórios</a>
+</li>
+	<li class="cat-item cat-item-238"><a href="https://www.motosblog.com.br/category/cartas-dos-leitores/">Cartas dos Leitores</a>
+</li>
+	<li class="cat-item cat-item-6"><a href="https://www.motosblog.com.br/category/curiosidades/">Curiosidades</a>
+</li>
+	<li class="cat-item cat-item-330"><a href="https://www.motosblog.com.br/category/destaques/">Destaques</a>
+</li>
+	<li class="cat-item cat-item-4"><a href="https://www.motosblog.com.br/category/dicas/">Dicas</a>
+</li>
+	<li class="cat-item cat-item-19"><a href="https://www.motosblog.com.br/category/dinheiro/">Dinheiro</a>
+</li>
+	<li class="cat-item cat-item-162"><a href="https://www.motosblog.com.br/category/esportes/">Esportes</a>
+</li>
+	<li class="cat-item cat-item-22"><a href="https://www.motosblog.com.br/category/eventos/">Eventos</a>
+</li>
+	<li class="cat-item cat-item-122"><a href="https://www.motosblog.com.br/category/legislacao/">Legislação</a>
+</li>
+	<li class="cat-item cat-item-2049"><a href="https://www.motosblog.com.br/category/marcas/">Marcas</a>
+<ul class='children'>
+	<li class="cat-item cat-item-251"><a href="https://www.motosblog.com.br/category/marcas/ame-amazonas/">AME Amazonas</a>
+</li>
+	<li class="cat-item cat-item-393"><a href="https://www.motosblog.com.br/category/marcas/aprilia/">Aprilia</a>
+</li>
+	<li class="cat-item cat-item-425"><a href="https://www.motosblog.com.br/category/marcas/bmw/">BMW</a>
+</li>
+	<li class="cat-item cat-item-24"><a href="https://www.motosblog.com.br/category/marcas/buell/">Buell</a>
+</li>
+	<li class="cat-item cat-item-93"><a href="https://www.motosblog.com.br/category/marcas/dafra/">Dafra</a>
+</li>
+	<li class="cat-item cat-item-118"><a href="https://www.motosblog.com.br/category/marcas/ducati/">Ducati</a>
+</li>
+	<li class="cat-item cat-item-481"><a href="https://www.motosblog.com.br/category/marcas/harley-davidson/">Harley Davidson</a>
+</li>
+	<li class="cat-item cat-item-10"><a href="https://www.motosblog.com.br/category/marcas/honda/">Honda</a>
+</li>
+	<li class="cat-item cat-item-16"><a href="https://www.motosblog.com.br/category/marcas/kasinski/">Kasinski</a>
+</li>
+	<li class="cat-item cat-item-23"><a href="https://www.motosblog.com.br/category/marcas/kawasaki/">Kawasaki</a>
+</li>
+	<li class="cat-item cat-item-11"><a href="https://www.motosblog.com.br/category/marcas/sundown/">Sundown</a>
+</li>
+	<li class="cat-item cat-item-9"><a href="https://www.motosblog.com.br/category/marcas/suzuki/">Suzuki</a>
+</li>
+	<li class="cat-item cat-item-17"><a href="https://www.motosblog.com.br/category/marcas/yamaha/">Yamaha</a>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-12"><a href="https://www.motosblog.com.br/category/manutencao/">Mecânica</a>
+</li>
+	<li class="cat-item cat-item-2040"><a href="https://www.motosblog.com.br/category/motocast/">Motocast</a>
+</li>
+	<li class="cat-item cat-item-5"><a href="https://www.motosblog.com.br/category/noticias/">Notícias</a>
+</li>
+	<li class="cat-item cat-item-25"><a href="https://www.motosblog.com.br/category/opiniao/">Opinião</a>
+</li>
+	<li class="cat-item cat-item-36"><a href="https://www.motosblog.com.br/category/preparacao/">Preparação</a>
+</li>
+	<li class="cat-item cat-item-521"><a href="https://www.motosblog.com.br/category/promocoes/">Promoções</a>
+</li>
+	<li class="cat-item cat-item-522"><a href="https://www.motosblog.com.br/category/publicidade/">Publicidade</a>
+</li>
+	<li class="cat-item cat-item-331"><a href="https://www.motosblog.com.br/category/quentes/">Quentes</a>
+</li>
+	<li class="cat-item cat-item-95"><a href="https://www.motosblog.com.br/category/scooter/">Scooter</a>
+</li>
+	<li class="cat-item cat-item-3"><a href="https://www.motosblog.com.br/category/seguranca/">Segurança</a>
+</li>
+	<li class="cat-item cat-item-67"><a href="https://www.motosblog.com.br/category/supermotard/">SuperMotard</a>
+</li>
+	<li class="cat-item cat-item-37"><a href="https://www.motosblog.com.br/category/testes/">Testes</a>
+</li>
+	<li class="cat-item cat-item-18"><a href="https://www.motosblog.com.br/category/tuning/">Tuning</a>
+</li>
+	<li class="cat-item cat-item-77"><a href="https://www.motosblog.com.br/category/tutoriais/">Tutoriais</a>
+<ul class='children'>
+	<li class="cat-item cat-item-138"><a href="https://www.motosblog.com.br/category/tutoriais/catalogo-de-pecas/">Catálogo de Peças</a>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-13"><a href="https://www.motosblog.com.br/category/viagens/">Viagens</a>
+<ul class='children'>
+	<li class="cat-item cat-item-132"><a href="https://www.motosblog.com.br/category/viagens/passeios/">Passeios</a>
+</li>
+	<li class="cat-item cat-item-1907"><a href="https://www.motosblog.com.br/category/viagens/projeto-explore/">Projeto Explore</a>
+</li>
+	<li class="cat-item cat-item-7"><a href="https://www.motosblog.com.br/category/viagens/roteiros/">Roteiros</a>
+</li>
+</ul>
+</li>
+			</ul>
+
+			</aside>
+	</section>	
+	</div>
+	
+		
+	
+
+
+				
+		<div id="footer-widgets-wrap">
+		
+			<div id="footer-widgets" class="clearfix">
+			
+				<div id="footer-widget-one" class="footer-widget-column">
+		<aside id="linkcat-358" class="widget widget_links clearfix"><h3 class="widgettitle"><span>Meus Blogs</span></h3>
+	<ul class='xoxo blogroll'>
+<li><a href="https://fpvsampa.com/br" title="FPV Sampa &#8211; Aeromodelismo em primeira pessoa">FPV Sampa</a></li>
+<li><a href="http://www.defesa.org" title="Instituto Defesa &#8211; Pelo direito à legítima defesa armada">Instituto Defesa</a></li>
+<li><a href="http://www.motocast.net" title="Motocast &#8211; O seu podcast sobre motos">Motocast</a></li>
+<li><a href="http://www.outros.net" rel="me" title="Outros.net">Outros.net</a></li>
+
+	</ul>
+</aside>
+<aside id="linkcat-484" class="widget widget_links clearfix"><h3 class="widgettitle"><span>Lojas de amigos</span></h3>
+	<ul class='xoxo blogroll'>
+<li><a href="http://www.moremoto.com.br" title="Oficina especializada em mecânica e preparação de motos">Moremoto</a></li>
+
+	</ul>
+</aside>
+				</div>
+				
+				<div id="footer-widget-two" class="footer-widget-column">
+		<aside id="linkcat-219" class="widget widget_links clearfix"><h3 class="widgettitle"><span>Amigos</span></h3>
+	<ul class='xoxo blogroll'>
+<li><a href="http://motordomundo.wordpress.com/" rel="friend">MotordoMundo</a></li>
+
+	</ul>
+</aside>
+<aside id="linkcat-382" class="widget widget_links clearfix"><h3 class="widgettitle"><span>Links Úteis</span></h3>
+	<ul class='xoxo blogroll'>
+<li><a href="http://fichatecnica.motosblog.com.br/" title="Repositório de fichas técnicas de motos">Ficha técnica</a></li>
+
+	</ul>
+</aside>
+			</div>
+
+				<div id="footer-widget-three" class="footer-widget-column">
+		
+		<aside id="recent-posts-2" class="widget widget_recent_entries clearfix">
+		<h3 class="widgettitle"><span>Últimos artigos</span></h3>
+		<ul>
+											<li>
+					<a href="https://www.motosblog.com.br/11885/a-importancia-de-usar-capacete-no-nordeste/">A importância de usar capacete no nordeste</a>
+									</li>
+											<li>
+					<a href="https://www.motosblog.com.br/11880/seguro-de-moto-vale-a-pena/">Seguro de moto &#8211; vale a pena?</a>
+									</li>
+											<li>
+					<a href="https://www.motosblog.com.br/11877/mulheres-no-guidao-respeito-a-vida-constante/">Mulheres no guidão, respeito à vida constante.</a>
+									</li>
+											<li>
+					<a href="https://www.motosblog.com.br/11871/e-necessario-cnh-para-as-cinquentinhas/">É necessário CNH para as &#8220;cinquentinhas&#8221;?</a>
+									</li>
+											<li>
+					<a href="https://www.motosblog.com.br/11867/comecando-a-pilotar-motos/">Começando a pilotar motos</a>
+									</li>
+					</ul>
+
+		</aside>			</div>
+				
+				<div id="footer-widget-four" class="footer-widget-column">
+		<aside id="rss-7" class="widget widget_rss clearfix"><h3 class="widgettitle"><span><a class="rsswidget rss-widget-feed" href="http://fichatecnica.motosblog.com.br/feedz/fichasaleatorias"><img class="rss-widget-icon" style="border:0" width="14" height="14" src="https://www.motosblog.com.br/mb/wp-includes/images/rss.png" alt="RSS" loading="lazy" /></a> <a class="rsswidget rss-widget-title" href="https://fichatecnica.motosblog.com.br/">Fichas técnicas</a></span></h3><ul><li><a class='rsswidget' href='https://fichatecnica.motosblog.com.br/FichaTecnica/Harley_Davidson/V-Rod_Muscle_VRSCF_2009'>Harley Davidson V-Rod Muscle VRSCF 2009 a 2016</a></li><li><a class='rsswidget' href='https://fichatecnica.motosblog.com.br/FichaTecnica/Yamaha/Crosser_150_Z_2018'>Yamaha Crosser 150 Z 2018 a 2024</a></li><li><a class='rsswidget' href='https://fichatecnica.motosblog.com.br/FichaTecnica/Suzuki/DL_1000_V-Strom_ABS_2014'>Suzuki DL 1000 V-Strom ABS 2014 a 2024</a></li><li><a class='rsswidget' href='https://fichatecnica.motosblog.com.br/FichaTecnica/Honda/CG_150_Sport_2005'>Honda CG 150 Sport 2005 a 2008</a></li><li><a class='rsswidget' href='https://fichatecnica.motosblog.com.br/FichaTecnica/Triumph/Daytona_675R_2013'>Triumph Daytona 675R 2013 a 2016</a></li></ul></aside>			</div>
+					
+			</div>
+			
+		</div>
+		
+
+	
+	<div id="footer-wrap">
+		
+		<footer id="footer" class="container clearfix" role="contentinfo">
+			
+			<nav id="footernav" class="clearfix" role="navigation">
+							</nav>
+			
+			<div class="footer-content">
+	<span class="credit-link"><a href="https://www.motosblog.com.br">Motos Blog</a> © 2006-2023 - Todos os direitos reservados.</span>
+
+
+			</div>				
+				
+			</div>
+			
+		</footer>
+
+	</div>
+	
+</div><!-- end #wrapper -->
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+/* hammy */
+var imageParent = "#content";
+
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.motosblog.com.br/mb/wp-content/cache/scripts/d4bf69a7d687e8b590260be243d20c21-deanedwards.js">/*Cache!*/</script>
+<link rel="stylesheet" href="https://www.motosblog.com.br/mb/wp-content/cache/scripts/bad29207a122aea07e84aa82b1ea34d3.css" type="text/css" media="all" /> <!-- Cache! -->
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-2166185-2', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+</body>
+</html>
+<!-- Dynamic page generated in 0.380 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2023-06-29 16:08:26 -->
+
+<!-- Compression = gzip -->
